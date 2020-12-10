@@ -2,28 +2,19 @@
 
 ---
 
-### Category Name 1 
+### Public Policy Analysis
 
-[Cincinnati Heroin Overdose Risk Prediction](/sample_page)
+[Cincinnati Heroin Overdose Risk Prediction](/508_md/Cincinnati_Heroin)
 
-
-[Indego Bikeshare Prediction](/indego_bikeshare_prediction)
-
+[Indego Bikeshare Prediction](/508_md/indego_bikeshare_prediction)
 
 [Home Credit Allocation Decision Making](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Chicago Predictive Policing](http://example.com/)
 
 [Miami Housing Price Prediction](http://example.com/)
 
 [TOD Analysis](http://example.com/)
-
----
-
-
----
-
 
 
 
