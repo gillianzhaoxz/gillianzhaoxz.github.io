@@ -8,13 +8,13 @@
 
 [Indego Bikeshare Prediction](/508_md/indego_bikeshare_prediction)
 
-[Home Credit Allocation Decision Making](http://example.com/)
+[Home Credit Allocation Decision Making](/508_md/HomeCredit)
 
-[Chicago Predictive Policing](http://example.com/)
+[Chicago Predictive Policing](/508_md/ChicagoMarijuana)
 
-[Miami Housing Price Prediction](http://example.com/)
+[Miami Housing Price Prediction](/508_md/MiammiHousingPrice)
 
-[TOD Analysis](http://example.com/)
+[TOD Analysis](/508_md/ChicagoTOD)
 
 
 
