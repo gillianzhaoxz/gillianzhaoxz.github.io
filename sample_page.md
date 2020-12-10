@@ -1,31 +1,12 @@
-## This can be your internal website page / project page
+## Heroin Overdose Risk Prediction Project
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** 
+\n The huge increases in overdose deaths from prescription opioid misuse calls for better overdose related services. The geospatial trend in overdose emergencies will guide public policy responses to save individuals from overdose. As there is a lack of funding to treat overdose patients, the City of Cincinnati began to target population with relevant records to deploy personnel and medical resources. Such hotspot deployment programs are helpful, yet their effectiveness is in question. They only target locations of patients who had been through overdose emergencies in the system. To prevent more overdose cases, they need to serve more population and include potential areas that are not in the past records. However, the city needs to deploy resources to the accurate high-risk areas to reduce cost while curbing overdose cases.
+ 
+According to the famous broken windows theory, urban environments can further crime and disorder which includes heroin overdose. Thus, we propose PredHero, a risk prediction app that accounts for environmental factors to improve prevention resource allocation. We recognize that though the intention of PredHero is to reduce cost and enhance public health, pathologies in data collection and machine learning models can lead to very biased outcomes. Hence, besides comparing it with the hotspots model, we will also closely examine the accuracy and generalizability across space and time for our risk prediction model. Our analysis results will inform city officials where to distribute prevention resources that will lead to the most reversal, decreased death, or decreased cases of heroin overdose. For example, the city can provide the optimal amount of Naloxone treatment toolkits at community centers according to the predicted overdose cases in their area. Having the toolkits when overdose happened, rather than waiting for treatment, will significantly buy patients more time.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+**Link to Project:** 
+To be Updated
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Link to Presentation:**
+To be updated
