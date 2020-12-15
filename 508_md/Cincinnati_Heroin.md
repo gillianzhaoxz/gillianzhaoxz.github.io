@@ -1,10 +1,10 @@
 ## Heroin Overdose Risk Prediction Project
 
 **Link to Project:** 
-To be Updated
+[Cincinnati Heroin Prediction](/508_html/Cincinnati_Heroin.html)
 
 **Link to Presentation:**
-To be updated
+<a href="https://youtu.be/rCxU5raI2Ws">Video demonstration</a>
 
 **Project description:** 
 The huge increases in overdose deaths from prescription opioid misuse calls for better overdose related services. The geospatial trend in overdose emergencies will guide public policy responses to save individuals from overdose. As there is a lack of funding to treat overdose patients, the City of Cincinnati began to target population with relevant records to deploy personnel and medical resources. Such hotspot deployment programs are helpful, yet their effectiveness is in question. They only target locations of patients who had been through overdose emergencies in the system. To prevent more overdose cases, they need to serve more population and include potential areas that are not in the past records. However, the city needs to deploy resources to the accurate high-risk areas to reduce cost while curbing overdose cases.
